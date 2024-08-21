@@ -16,10 +16,10 @@ Automatizar de forma básica os seguintes fluxos usando o site abaixo e criar 3 
 
 https://www.skyscanner.com.br/
 
-**1 - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)**
+**1 - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)** 
 Deixar desmarcardo (adicionar aeoportos proximos, voos diretos e aeroportos proximos)
-**2 - Editar busca de passagens**
-**3 - Limpar a busca de passagens**
+**2 - Editar busca de passagens** 
+**3 - Limpar a busca de passagens** \n
 
 **Requisitos obrigatórios**
 Utilização de Cypress
