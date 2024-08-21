@@ -11,14 +11,15 @@ Idioma de escrita do código: Inglês
 
 **Sua tarefa é:**
 
-Automatizar de forma básica os seguintes fluxos usando o site abaixo:
+Automatizar de forma básica os seguintes fluxos usando o site abaixo e criar 3 casos de testes de escrita:
+
 
 https://www.skyscanner.com.br/
 
--> Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)
--  Deixar desmarcardo (adicionar aeoportos proximos, voos diretos e aeroportos proximos)
--> Editar busca de passagens
--> Limpar a busca de passagens
+**1 - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)**
+Deixar desmarcardo (adicionar aeoportos proximos, voos diretos e aeroportos proximos)
+**2 - Editar busca de passagens**
+**3 - Limpar a busca de passagens**
 
 **Requisitos obrigatórios**
 Utilização de Cypress
