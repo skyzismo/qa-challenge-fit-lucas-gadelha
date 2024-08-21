@@ -6,8 +6,11 @@ The objective of this challenge is to assess the technical competence of QA(Test
 **Especificações Técnicas**
 
 Plataforma Web (Google Chrome)
+
 Linguagem: Javascript / type
+
 Idioma de escrita do código: Inglês
+
 
 **Sua tarefa é:**
 
@@ -18,8 +21,10 @@ https://www.skyscanner.com.br/
 
 **1 - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)** 
 Deixar desmarcardo (adicionar aeoportos proximos, voos diretos e aeroportos proximos)
+
 **2 - Editar busca de passagens** 
-**3 - Limpar a busca de passagens** \n
+
+**3 - Limpar a busca de passagens** 
 
 **Requisitos obrigatórios**
 Utilização de Cypress
