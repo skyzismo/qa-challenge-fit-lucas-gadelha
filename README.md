@@ -19,14 +19,14 @@ Automatizar de forma básica os seguintes fluxos usando o site abaixo e criar 3 
 
 https://www.skyscanner.com.br/
 
-**1 - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)** 
+**1 Caso de Uso - Buscar passagens ( você deve inserir aeoroportos de ida e volta, duas datas, 1 pessoa)** 
 Deixar desmarcardo (adicionar aeoportos proximos, voos diretos e aeroportos proximos)
 
-**2 - Editar busca de passagens** 
+**2 Caso de Uso - Editar busca de passagens** 
 
-**3 - Limpar a busca de passagens** 
+**3 Caso de Uso - Limpar a busca de passagens** 
 
-**Requisitos obrigatórios**
+**Requisitos obrigatórios e diferenciais**
 Utilização de Cypress
 Utilização de Código Estruturado
 
@@ -40,8 +40,11 @@ O que você melhoraria se tivesse mais tempo
 Quais requisitos obrigatórios e desejáveis não foram entregues e o motivo
 Informe ao recrutador quando concluir o desafio junto com o link do repositório
 
-**Prazo de Entrega - 23/08/2024 as 13hrs da tarde.**
+**Prazo de Entrega - 19/09/2024 as 13hrs da tarde.**
 
 O Candidato que não tiver enviado até a data limite e horario, será desclassificado.
 
+** Se possível, grave com celular ou screenshot o resultado do teste, podemos revisa-lo no round do processo**
 Boa prova.
+
+
