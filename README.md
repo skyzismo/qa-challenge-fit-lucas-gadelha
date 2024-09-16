@@ -14,7 +14,7 @@ Idioma de escrita do código: Inglês
 
 **Sua tarefa é:**
 
-Automatizar de forma básica os seguintes fluxos usando o site abaixo e criar 3 casos de testes de escrita:
+1) Automatizar de forma básica os seguintes fluxos usando o site abaixo e criar 3 casos de testes de escrita:
 
 
 https://www.skyscanner.com.br/
@@ -40,7 +40,7 @@ O que você melhoraria se tivesse mais tempo
 Quais requisitos obrigatórios e desejáveis não foram entregues e o motivo
 Informe ao recrutador quando concluir o desafio junto com o link do repositório
 
-**Prazo de Entrega - 19/09/2024 as 13hrs da tarde.**
+**Prazo de Entrega - 18/09/2024 as 17hrs da tarde.**
 
 O Candidato que não tiver enviado até a data limite e horario, será desclassificado.
 
