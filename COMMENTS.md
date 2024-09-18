@@ -11,7 +11,7 @@
 
 - **Operating System Version:** Windows 11 Pro
 - **Browser version:** Chrome 129.0.6668.59 Version
-- **Tools and Languages**: VS Code, Git Bash, Git/Git Hub, Cypress XX.XXX.XX Version and TypeScript
+- **Tools and Languages**: VS Code, Git Bash, Git/Git Hub, Cypress 13.14.2​ Version and JavaScript
 - **Test environment**: https://www.skyscanner.com.br/
 
 ### Tested Functionalities:
